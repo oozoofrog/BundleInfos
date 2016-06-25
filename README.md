@@ -63,7 +63,6 @@ I would love for you to contribute to **BundleInfos**. Hope to be 'are we' from 
 
 Jay Choi – eyerama@gmail.com
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
 
 [swift-image-2.0]:https://img.shields.io/badge/swift-2.0-orange.svg
 [swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
