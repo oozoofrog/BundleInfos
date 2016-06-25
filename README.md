@@ -32,16 +32,16 @@ let bundleName: String = "CFBundleName".valueForMainBundle
 ## Pre Defines
 This from [Information Property List Key Reference](https://developer.apple.com/library/ios/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html#//apple_ref/doc/uid/20001431-102088)
 
-- ####`BundleSupportedPlatforms`
-- ####`BundleInfoDictionaryVersion`
-- ####`BundleDevelopmentRegion`
-- ####`BundleNumericVersion`
-- ####`BundleIdentifier`
-- ####`BundleShortVersionString`
-- ####`BundleExecutable`
-- ####`BundlePackageType`
-- ####`BundleName`
-- ####`BundleVersion`
+- `BundleSupportedPlatforms`
+- `BundleInfoDictionaryVersion`
+- `BundleDevelopmentRegion`
+- `BundleNumericVersion`
+- `BundleIdentifier`
+- `BundleShortVersionString`
+- `BundleExecutable`
+- `BundlePackageType`
+- `BundleName`
+- `BundleVersion`
 
 
 ## Release History
